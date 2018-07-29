@@ -1,4 +1,4 @@
-# sample_gloss_animation
+# flutter-animation-sample
 
 A new Flutter project.
 
@@ -6,3 +6,5 @@ A new Flutter project.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+![](sample.gif)
